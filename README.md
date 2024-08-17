@@ -6,12 +6,15 @@ The objective of this project is to analyze sales and order data for a coffee sh
 
 ### Data Sources
 
-the primary dataset used for this analysis is the "Coffee Shop Sales CSV" file, containing detailed information about sales and customer ordering trends on a monthly and years basis.
-Source: James Hoffmann & Cometeer)
+the primary dataset used for this analysis is the "Coffee Shop Sales .xlsx" file, containing detailed information about sales and customer ordering trends on a monthly and years basis.
+(Source: Maven Analytics)
 
 (License: Public Domain)
 
 ### Tools
--Excel
--MYSQL
-PowerBI
+- Excel - Data Cleaning [Download Here](https://app.mavenanalytics.io/datasets?search=cof)
+- MYSQL - Data Analysis
+- PowerBI - Data Visualization/ Creating a Report
+
+### Data Cleaning
+
