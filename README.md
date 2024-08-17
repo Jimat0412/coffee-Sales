@@ -1,5 +1,19 @@
 # Coffee Shop Sales & Order Performance Analysis
 
+### Table of contents 
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Summary](#summary)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+- [References](#references)
+
 ### project Overview
 
 The objective of this project is to analyze sales and order data for a coffee shop on a monthly basis, identify trends, and provide insights into sales performance and customer ordering behavior. This analysis will help the business understand its revenue patterns, identify growth opportunities, and make informed decisions for future strategies.
@@ -66,5 +80,5 @@ Based on the analysis, We recommend the following actions:
 
 ### References
 
-
+[Download Here](https://app.mavenanalytics.io/datasets?search=cof)
 
