@@ -21,4 +21,50 @@ the primary dataset used for this analysis is the "Coffee Shop Sales .xlsx" file
 
  in the initial data preparation phase, I performed the following tasks:
  1. data loading and inseption
- 2. data cleaning and formatting 
+ 2. data cleaning and formatting
+
+### Exploratory Data Analysis
+
+Here are the steps and insights gained from performing EDA on the Coffee Shop Sales & Order Performance Analysis:
+
+1. How have Maven Roasters sales trended over time?
+
+2. Which days of the week tend to be busiest, and why do you think that's the case?
+
+3. Which products are sold most and least often? Which drive the most revenue for the business?
+
+
+### Data Analysis
+
+include some interesting code/features worked with
+
+```MYSQL
+
+SELECT ROUND(SUM(unit_price * transaction_qty)) as Total_Sales 
+FROM coffee_shop_sales 
+WHERE MONTH(transaction_date) = 5 -- for month of (CM-May);
+;
+```
+
+### Results
+
+The analysis results are summarized as follows:
+Coffee sales likely show growth over time, with weekends and certain weekdays being the busiest. Regular coffee sells the most, while premium items contribute significantly to revenue. Use these insights to optimize staffing, inventory, and promotions.
+
+### Recommendation 
+
+Based on the analysis, We recommend the following actions:
+1. Increase staff and inventory on busy days.
+2. Promote popular items like regular coffee.
+3. Highlight high-revenue premium products.
+4. Boost sales during slow periods with targeted promotions.
+5. Optimize inventory based on sales trends.
+
+### Limitations 
+
+1. The dataset has limitations, including missing data, lack of customer information, a short time frame, no cost details, and not accounting for external factors.
+
+### References
+
+
+
