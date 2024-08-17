@@ -12,9 +12,13 @@ the primary dataset used for this analysis is the "Coffee Shop Sales .xlsx" file
 (License: Public Domain)
 
 ### Tools
-- Excel - Data Cleaning [Download Here](https://app.mavenanalytics.io/datasets?search=cof)
+- Excel - Data Cleaning
+   - [Download Here](https://app.mavenanalytics.io/datasets?search=cof)
 - MYSQL - Data Analysis
 - PowerBI - Data Visualization/ Creating a Report
 
 ### Data Cleaning
 
+ in the initial data preparation phase, I performed the following tasks:
+ 1. data loading and inseption
+ 2. data cleaning and formatting 
