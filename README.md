@@ -18,6 +18,9 @@
 
 The objective of this project is to analyze sales and order data for a coffee shop on a monthly basis, identify trends, and provide insights into sales performance and customer ordering behavior. This analysis will help the business understand its revenue patterns, identify growth opportunities, and make informed decisions for future strategies.
 
+![Screenshot (157)](https://github.com/user-attachments/assets/5d99d402-ed3a-45f5-acce-cce3d76e54ee)
+
+
 ### Data Sources
 
 the primary dataset used for this analysis is the "Coffee Shop Sales .xlsx" file, containing detailed information about sales and customer ordering trends on a monthly and years basis.
@@ -65,6 +68,14 @@ WHERE MONTH(transaction_date) = 5 -- for month of (CM-May);
 The analysis results are summarized as follows:
 Coffee sales likely show growth over time, with weekends and certain weekdays being the busiest. Regular coffee sells the most, while premium items contribute significantly to revenue. Use these insights to optimize staffing, inventory, and promotions.
 
+![Screenshot (157)](https://github.com/user-attachments/assets/5afe5427-fbb1-4f77-9ccb-969c5546f0de)
+![Screenshot (156)](https://github.com/user-attachments/assets/7f88e5e9-f05d-4bf1-bdde-a03ff0d66770)
+![Screenshot (155)](https://github.com/user-attachments/assets/824acef3-a742-46d4-958e-01c85d96b96a)
+
+### Summary
+
+The dataset from "Coffee Shop Sales.xlsx" contains transactional data for Maven Roasters. It includes details on sales amounts, order IDs, product types, and transaction dates. This data is used to analyze sales trends, identify the busiest days, and evaluate the performance of different products over a specific period.
+
 ### Recommendation 
 
 Based on the analysis, We recommend the following actions:
@@ -81,4 +92,6 @@ Based on the analysis, We recommend the following actions:
 ### References
 
 [Link Here](https://www.linkedin.com/in/datatutorials/)
+
+☕ 🏪 
 
